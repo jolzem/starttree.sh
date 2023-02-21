@@ -1,0 +1,13 @@
+:root {
+    --font: mononoki Nerd Font, monospace;
+    --font-size: 100%;
+    --background: #000;
+    --text: #afff14;
+    --clock: #ff69eb;
+    --cmd-dir: #00f6ed;
+    --cmd-dollar: #ff69eb;
+    --branch: var(--text);
+    --search-border: var(--text);
+    --search-shadow: var(--text);
+    --links-hover: #f3ff14;
+}
