@@ -1,0 +1,22 @@
+- theme: "black"
+- clock: true
+- username: "root"
+- hostname: "startpage"
+- num_trees: 3
+- trees:
+  - title: "General"
+  - items:
+    - gmail: "https://mail.google.com"
+    - github: "https://github.com"
+  - title: "Entertainment"
+  - items:
+    - youtube: "https://www.youtube.com/"
+    - reddit: "https://reddit.com/"
+  - title: "Work"
+  - items:
+    - git: "https://git.work.org"
+    - homepage: "https://www.work.org"
+- search: true
+- search_name: "brave"
+- search_url: "https://search.brave.com/search"
+- search_query: "q" # ?q=YourSearchQuery
