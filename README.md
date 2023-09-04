@@ -14,11 +14,11 @@ A simple configurable tree style startpage in HTML and CSS with interchangeable 
 
 ### Firefox
 1. Clone git Repo
-2. Find instructions on how to install further [here](https://stpg.tk/guides/firefox-startpage/#the-normal-way).
+2. Find instructions on how to install further [here](https://redd.it/ge86z4).
 
 ### Safari
 1. Clone git Repo
-2. Find instructions on how to install further [here](https://support.apple.com/de-de/guide/safari/ibrw1020/mac).
+2. Find instructions on how to install further [here](https://support.apple.com/guide/safari/change-your-homepage-ibrw1020/mac).
 
 ## Configuration
 
@@ -45,9 +45,9 @@ Configure your starttree in the `config.yml` file like so:
     - git: "https://git.work.org"
     - homepage: "https://www.work.org"
 - search: true
-- search_name: "brave"
-- search_url: "https://search.brave.com/search"
-- search_query: "q"
+- search_name: "startpage-search"
+- search_url: "https://www.startpage.com/sp/search"
+- search_query: "query"
 ```
 
 You can find all themes in the `themes/` directory.
