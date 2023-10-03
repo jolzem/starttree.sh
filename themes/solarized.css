@@ -1,0 +1,14 @@
+:root {
+    --font: "Fira Code", monospace;
+    --font-size: 105%; /*font size in %*/
+    --background: #002b36;
+    --clock: #eee8d5;
+    --cmd-dir: #859900;
+    --cmd-dollar: #268bd2;
+    --text: #eee8d5;
+    --branch: #d7d7d5;
+    --links: #d33682;
+    --links-hover: #0abdc677;
+    --search-border: #2aa198;
+    --search-shadow: #2aa19855;
+}
