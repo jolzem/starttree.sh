@@ -1,4 +1,4 @@
-# ./startpage.sh
+# starttree.sh
 A simple configurable tree style startpage in HTML and CSS with interchangeable and customisable themes.
 
 ![Preview](preview.png)
