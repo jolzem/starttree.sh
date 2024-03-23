@@ -6,8 +6,8 @@ A simple configurable tree style startpage in HTML and CSS with interchangeable 
 ## Installation
 
 ### Chrome / Chromium
-1. Clone git Repo
-2. Go to Extensions
+1. Clone git repo
+2. Go to extensions
 3. Toggle Developer mode on
 4. Click on Load Unpacked
 5. Select the directory you cloned the git repo
@@ -18,7 +18,9 @@ A simple configurable tree style startpage in HTML and CSS with interchangeable 
 
 ### Safari
 1. Clone git Repo
-2. Find instructions on how to install further [here](https://support.apple.com/guide/safari/change-your-homepage-ibrw1020/mac).
+2. Generate a startpage and open it with Safari
+3. Go to `Settings` > `General`
+4. Under *Homepage* click `Set to Current Page`
 
 ## Configuration
 
